@@ -6,14 +6,14 @@ category: tech
 tags: ["vim", "space vs tab", "convention"]
 ---
 
-![tab vs space sample](http://cdn.trulycode.com/wp-content/uploads/2015/05/tabs-vs-spaces.jpg)
+![tab vs space sample](/img/posts/2016-09-07/1.png)
 
 ## Reason for this post
 
 I, personally, have been struggled with this issue for some time. I am kinda person who has a really poor memory, but i am pretty sure i've googled it for at least twice, and each time, has spent decent amount of time on researching.
 
 I really missed the old days When i was a (Notepad++❓❓❓Sublime Text2❗️❓or Atom❗️❗️) user who has a spirit of sticking to the original (default settings). But once you fell into some other "Linux/Unix born" 👻 editors, like Vi/Vim or Emacs, you normally will only have 2 choice, endless of suffering or save yourself.
-![tab vs space comic](http://evadeflow.com/wp-content/uploads/2011/03/TabsSpacesBoth.png)
+![tab vs space comic](/img/posts/2016-09-07/2.png)
 
 ## Advantage vs Disadvantage
 
