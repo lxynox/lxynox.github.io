@@ -55,7 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add  HTML Tags in the Text
-  - text: "One of the greatest pleasures in life is doing what other people say you can't. - Sindre Sorhus"
+  - text: "One of the greatest pleasures in life is doing what other people say you cannot. - Sindre Sorhus"
   - text: "Those who are crazy enough to think they can change the world usually do. - Steve Jobs"
   - text: "The dream of yesterday, is the hope of today, and the reality of tomorrow. - Robert H. Goddard"
 
