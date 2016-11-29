@@ -14,13 +14,10 @@ an app. Have you ever thought of using *emoji* to be the only title of your orga
 
 # Screenshot
 
-![my iphone7 desktop](https://lxynox.github.io/gitcloud/files/img/blog/iphone-layout.PNG)
+![my iphone7 desktop](https://lxynox.github.io/gitcloud/files/img/blog/iphone-layout-update.PNG)
 
 # Bye
 
-When talking about customize/hack iphone, google usually sends us to `iphone jailbreak`, but there is definitely some technical bars/safety concerns 
-for many users to do that. As iOS is [closesd source](https://simple.wikipedia.org/wiki/Closed_source), developers tend to do different hacks to acquire 
-higher permission for more control, but we can always find some useful tricks without too much hassle. Give the `assistive touch` a look if you prefer 
-single hand operation on your mobile.
+When talking about customizing/hacking iphone, google usually sends us to `iphone jailbreak`, but there is definitely some technical bars/safety concerns for many users to do that. As iOS is [closed source (https://simple.wikipedia.org/wiki/Closed_source), developers tend to do different hacks to acquire higher permission for more control, but we can always find some useful tricks without too much hassle. Give the `assistive touch` a look if you prefer single hand operation on your mobile.
 
 Have fun and rock with your iPhone!
