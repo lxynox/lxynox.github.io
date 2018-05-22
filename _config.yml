@@ -89,16 +89,16 @@ icon-192p: "/img/web-app/icon-192p.png"
 events:
   - image: "/img/timeline/react_logo.png"
     date: "June, 2016 - Today"
-    description: "Idle. Everything around React.js is so cool☜(⌒▽⌒)☞"
+    description: ""
   - image: "/img/timeline/CA_logo.jpg"
     date: "Jan, 2016 - May, 2016"
-    description: "Internship. Wait, ECMAScript is JavaScript⁉️"
+    description: ""
   - image: "/img/timeline/WPI_logo.png"
     date: "Sep 2014 - May, 2016"
-    description: "Master. Wow, land in the US 🇺🇸"
+    description: ""
   - image: "/img/timeline/BIT_logo.png"
     date: "Sep 2010 - May, 2014" 
-    description: "Undergrad. Seriously, we were all young ヽ(´▽`)/"
+    description: ""
 
 # First image of the Timeline
 
